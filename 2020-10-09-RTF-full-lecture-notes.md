@@ -11,22 +11,22 @@
 * like slide projector but very complex
 * images put on glass and big
 
-### eadweard muybridge
+### Eadweard Muybridge
 
 * photographer and motion picture
-* killed wifes lover
-* horeses running was mystery and paintings look dumb
+* killed wife's lover
+* horses running was mystery and paintings look dumb
 * set up many cameras and captured stuff quickly 
-* zoopraxiscope = pictures on spinning piece of glass in a cirlcle
+* zoopraxiscope = pictures on spinning piece of glass in a circle
 
 * development of motion pictures
 
-  * 1888 edison and muybridge discussed zoopraxiscope
-  * 1888-1891 edison assigned william dickinson to develop the kinetograph and kinetoscope
+  * 1888 Edison and Muybridge discussed zoopraxiscope
+  * 1888-1891 Edison assigned William Dickinson to develop the kinetograph and kinetoscope
     * kinetograph was the motion picture camera
     * kinetoscope was the projector
   * 1891 "Dickinson's greeting" debuts
-  * 1894 first kinetescope parlour opens NYC and Edison patents everything
+  * 1894 first kinetoscope parlor opens NYC and Edison patents everything
   * 1892-1893 Edison built the "black Maria" film studio in west orange, NJ
   * moving to theaters allowed the spread of movies, can be shown to more people
   * 1896 vitascope
@@ -54,55 +54,55 @@
 * means seeing media industry as one advancing tech and society
 * called media industries studies
   * themes might include institutional structures or the power of media workers
-  * doesnt look at the media itself, looks at surrounding things
+  * doesn't look at the media itself, looks at surrounding things
 
 ### two companies
 
 * star film co
-  * georges and gaston miles
+  * Georges and Gaston miles
   * 1896-1917
-* edison trust
-  * thomas edison (and assoc)
+* Edison Trust
+  * Thomas Edison (and associates)
   * 1908-1915
 * both huge influencers in the beginning
 * took very different approaches
 
 #### star film co
 
-* 1861 george melies born in paris
+* 1861 George Melies born in Paris
 * 1880-1888 works family shoe company
-* 1888 purchases theatre robert-houdin for tage magic
-* 1895 saw early lumiere films
+* 1888 purchases theatre Robert-Houdin for stage magic
+* 1895 saw early Lumiere films
 * 1896 buys and modifies an animatograph, begins making short films
 * 1896 star film co founded
 * 1896-1897 constructs studio
 * 1899-1904 prime of his career
-* 1902 edison starts making money off his films, so he sends his brother to the US to form Star Co NY
-* 1903-1911 Gaston makes his own films; makes westerns in texas
+* 1902 Edison starts making money off his films, so he sends his brother to the US to form Star Co NY
+* 1903-1911 Gaston makes his own films; makes westerns in Texas
   * filmed outside
-* 1910 edison buys star flms 
-* 1910s french star films debt
-* 1912 gaston makes short documentaries, but theyre destroyed on the way home
-* 1915 sold completely to edison
+* 1910 Edison buys Star Films 
+* 1910s French star films debt
+* 1912 Gaston makes short documentaries, but they're destroyed on the way home
+* 1915 sold completely to Edison
   * everything destroyed in war
   * builds toy store
-* wasnt concerned with tech, mostly the art aspect of filmmaking
-* thats why they eventually failed
+* wasn't concerned with tech, mostly the art aspect of filmmaking
+* that's why they eventually failed
 
-#### edison trust
+#### Edison trust
 
 * 1847 Edison born
   * became deaf over time
-* 1876-1886 Menlo park lab developed photograph, incandescent bulb, etc
+* 1876-1886 Menlo park lab developed photograph, incandescent bulb, etc.
 * 1888-1891 kinetograph and kinetoscope patented after developed
-* 1893 black maria opened
+* 1893 black Maria opened
 * 1894-1900 many films made, mostly grounded reality
-* 1902 edison holds all the patentes and sues everyone
-* 1903 edison begins producing more story based films bc european films
+* 1902 Edison holds all the patents and sues everyone
+* 1903 edison begins producing more story based films bc European films
   * great train robbery
 * 1907 builds movie factory; pumps movies out very quickly 
-* 1908-1915 "edison trust" and MPPC are the same thing
-  * gaint coorporation own all film production
+* 1908-1915 "Edison Trust" and MPPC are the same thing
+  * giant corporation that owned all film production
   * controls every aspect of film making
   * had make new film every week
   * films one reel (1000ft) long (12-14min)
@@ -120,7 +120,7 @@
 
 ### key concepts
 
-- oscial forces of the 1890s
+- social forces of the 1890s
 - entertainment before movies
 - spectacle v realism
 - nickelodeon
@@ -180,7 +180,7 @@
 
 ### overtime, film exchanges became a thing
 
-- edison didnt own
+- Edison didn't own
 - some were budget with old cheaper films or prints or lower quality
 - had issues with burning down
 
@@ -189,7 +189,7 @@
 | early cinema 1890s-1907 |  transitional cinema 1907-1917 |
 | -------- | --------- |
 | experimentation   |   standardization |
-| many companies | edison trust |
+| many companies | Edison trust |
 | many places | nickelodeon|
 | no set lenth | one reel|
 | camera stationary | different shot types |
@@ -199,7 +199,7 @@
 
 ### discourse
 
-- institutionalised way of talking about how talk about things
+- institutionalized way of talking about how talk about things
 - film art discourse
 - history discourse
 - racism discourse
@@ -210,11 +210,11 @@
 
 # 2020 9 19
 
-### laemlle sued edison trust
+### Laemmle sued Edison trust
 
 - formed studio system on west coast
   - movie factories
-  - classical hollywood style
+  - classical Hollywood style
   - 50-52 movies/year
   - movie palaces
   - pushed women out as filmmaking became more traditional job
@@ -246,7 +246,7 @@
 
 # 2020 9 25 RTF: Sound
 
-### silent film wasnt truely silent
+### silent film wasn't truly silent
 
 - people were playing even in cheap theatres
 - originally was more of a improvised thing
@@ -257,16 +257,16 @@
     - newsreels
   - theatres were foremost employers of musicians 
 
-- chronophone gaumony
+- chronophone 
   - an early form of sound
 - people used to talk in movies, but not too too loud
 
 ### widespread synchronous sound
 
-- vitaphone
-  - didnt think would incorporate sound into full movie
+- Vitaphone
+  - didn't think would incorporate sound into full movie
   - was planned on "canned vaudeville"
-  - wasnt great and amplication bad
+  - wasn't great and amplification was bad
 - warner bros went all in sound
   - jazz singer was first widely done talkie
   - most acting done silently with cards
@@ -277,23 +277,23 @@
 
 1. cinematography
    1. actors play to mic
-   2. noisey equipment
+   2. noisy equipment
       1. even had to switch lights
 2. theatres
-   1. smaller theatres couldnt just change
-   2. wiring for sound cheaper for big ones bc muscicians
+   1. smaller theatres couldn't just change
+   2. wiring for sound cheaper for big ones bc musicians
    3. people need quiet
    4. film speed
 3. stars
    1. some fade
    2. some new
    3. accents liability
-   4. "american" is a sound
+   4. "American" is a sound
    5. 1929 big sound everywhere stuff
    6. classism and nativism bad
-   7. talkies helped make american accent
+   7. talkies helped make American accent
 4. genre
-   1. capitalises on sound
+   1. capitalizes on sound
       1. gangster films
       2. musicals 
       3. screwball comedy
@@ -305,7 +305,7 @@
 
 
 
-# 2020 9 25 RTF: pre-code hollywood
+# 2020 9 25 RTF: Pre-Code Hollywood
 
 ### timeline
 
@@ -327,11 +327,11 @@
 - photography was a part of new deal stuff
   - gorgeous picture
 - federal project no 1
-- homelessness and hoovervilles very bad
+- homelessness and Hoovervilles very bad
 - dust bow
   - over farming
-- very very bad for poc
-  - jim crow still thing
+- very very bad for People of Color
+  - Jim crow still thing
 
 ### timeline
 
@@ -350,22 +350,22 @@
 
 ### media effects: social or psychological affects of media on individuals and/or groups
 
-- no clear cut effect on people, still dont know effects fully
+- no clear cut effect on people, still don't know effects fully
 - talking about how people worry about it
 
 ### moral panic
 
 - something defined as threat
-- shown as simple and recognisable
+- shown as simple and recognizable
 - image causes concern
 - authorities issue response
 - moral panic over, but caused social change
 
-### arbuckle
+### Arbuckle
 
-- labour day party went bad
+- labor day party went bad
 - girl died few days after thing
-- arbuckle abandoned
+- Arbuckle abandoned
 - stars in shorts years later
 - dies in sleep
 - became symbol of everything bad 
@@ -381,20 +381,20 @@
 - using new social science techniqques
 - corrupt
 
-### national legions of decenct 1933-1965
+### national legions of decency 1933-1965
 
 - catholic organization
-- 20 mil catholics in us
-- organise via parishes
+- 20 mil Catholics in us
+- organize via parishes
 - parishioners swear boycott bad films and places with bad films
-- legion of devency ratings
+- legion of decency ratings
   - a
   - b
   - c
   - and then also by age
   - a is best
 
-### kenesaw mountain landis helped baseball after scandal
+### Kennesaw mountain Landis helped baseball after scandal
 
 ### will h hays 
 
@@ -402,7 +402,7 @@
 - post master general
   - at time post offices did things to do morality stuff
 - to stop legal censorship
-- everyone thought he was doing things to help the thigns
+- everyone thought he was doing things to help the things
 - failed
 - brought in two other people
 - films should avoid sin bc it makes us do sin
@@ -426,18 +426,18 @@
 # 2020 10 4 RTFN: Redo
 
 ## intro to radio history
-#### radio isnt jsut anything we listento through headphones, however it did influence a lot of that
+#### radio isn't just anything we listen to through headphones, however it did influence a lot of that
 ### hertz found electromagnetic waves exist; thought was useless discovery
 ### radio spectrum: part of the electromagnetic spectrum the federal government regulates thats used for all kinds of telecommunications
-### marconi invented and honed the vertical antannae; sending messages from england to canada by 1901
+### Marconi invented and honed the vertical antennae; sending messages from england to canada by 1901
 - turned radio into business of selling transmitted newspapers to people on boats
-- his radio comm system became famous after saving lives at the titanic
+- his radio communication system became famous after saving lives at the titanic
 ### Lee DeForest
 - invented the three element vacuum tube
   - first amplification device
-- was racist and thoruhgt black music ruining radio
+- was racist and thought black music ruining radio
 ### radio is both a way to communicate and transmit
-- at first, mostly amatuers with self-built radios for both transmission and recieving
+- at first, mostly amateurs with self-built radios for both transmission and receiving
 - over time that became more restricted
 - in early 1920s
   - receivers exploded in popularity
@@ -454,13 +454,13 @@
 | beginnings                                                   | beginnings                                                   |
 | not enough films, random releases and formats, scramble to set up theatres | thousands random broadcasts compete on airwaves              |
 | control                                                      | control                                                      |
-| from edison monopoly to oligopoly of big studios in california | only 2-3 major national networks that form, eventually abc, nbc. and cbs |
+| from Edison monopoly to oligopoly of big studios in California | only 2-3 major national networks that form, eventually ABC, NBC. and CBS |
 | regulation                                                   | regulation                                                   |
-| gov never regulate hollywood, self regulation                | bans on civilian radio during ww1; regulates airwaves via liscencing frequencies after |
+| gov never regulate Hollywood, self regulation                | bans on civilian radio during ww1; regulates airwaves via licensing frequencies after |
 | independent makers                                           | independent makers                                           |
-| forces out by studios; make indie films on 16mm              | forced to marhinal bandwidths by gov                         |
+| forces out by studios; make indie films on 16mm              | forced to marginal bandwidths by gov                         |
 | content                                                      | content                                                      |
-| produce steady stream films and toher stuff; no direct ads or reruns; distributed to theatres | produce very little content; sell blocks to sponsors who provide programs; lots ads;live;networks diribute prog to local stations |
+| produce steady stream films and other stuff; no direct ads or reruns; distributed to theatres | produce very little content; sell blocks to sponsors who provide programs; lots ads;live;networks distribute programming to local stations |
 | audience                                                     | audience                                                     |
 | out in public at theatres; fears of ruining children         | inside home listening; worried for kids                      |
 
@@ -476,26 +476,26 @@
 ### politics and war on the radio from the twenties to forties
 - politics found home on radio quickly
 - 1920 first election broadcast
-- 1923 first radio adress from white house
-- coolidge was frist pres broadcasted
+- 1923 first radio address from white house
+- Coolidge was first president broadcasted
 - liveness and intimacy bring people together around radio
 
-#### fr charles coughlin
+#### Fr Charles Coughlin
 - started as populist leftist
 - catholic
-- became nazi
+- became Nazi
 
 #### FDR Fireside Chat
 - broke down everything 
 - used you and we to build relationship to do war stuff
 
-#### murrow boys and broadcast journalism in wwII
+#### Murrow boys and broadcast journalism in WWII
 - interventionism v isolationism
 
 #### propaganda: media made to persuade people
 
-#### casablanca: rick becomes metaphor for isolationisi=ts 
-- eventually sacrfices for the greater good
+#### casa blanca: rick becomes metaphor for isolationists
+- eventually sacrifices for the greater good
 
-### Disney pushed relations with south america
-- fetishized latina women
+### Disney pushed relations with South America
+- fetishized Latina women

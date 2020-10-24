@@ -1,3 +1,0 @@
-The original Gameboy was one of the most influential handhelds of all times. It started Nintendo’s tradition of making handhelds with cheaper, older technology as well as their tradition of making at least two different versions of the same console, such as the Gameboy pocket, the Gameboy color, and the Japan only backlit Gameboy. 
-
-The Gameboy had a large collection of classic games suuch as pokemon red, blue, yellow, silver, gold, and crystal; it also had super mario land 1 and 2 which introduced wario as well as sequels to many nes games such as metroid and kid icarus.
